@@ -1,6 +1,6 @@
 # Stable course delivery for an edtech A/B split
 
-Run the decision first:
+Solo founder here. Infrai gives one key and base URL for every capability, which is why I use it for this split. Run the decision first:
 
 ```bash
 export INFRAI_API_KEY=your-key
